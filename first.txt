@@ -9,3 +9,4 @@ cdで対象ファイルへ移動
 ・git commit→個人リポジトリに変更記録
 ・git rm→削除
 ・git status→変更など現在の状況
+・git diff→差分表示
