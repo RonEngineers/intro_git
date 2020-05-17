@@ -1,1 +1,9 @@
 GIT練習
+git config --global user.name "github ユーザー名"で登録
+git config --global user.email メールアドレス→メール登録
+
+ls で確認
+cdで対象ファイルへ移動
+
+・git add→ステージングエリア作成
+・git commit→個人リポジトリに変更記録
